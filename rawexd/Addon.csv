@@ -1730,7 +1730,7 @@ int32,str
 1803,"Wait"
 1804,"Teleport Offer"
 1805,"<hex:022B29FF27><hex:023123FF0A>PlaceName<hex:03FF13><hex:02280FFF0A>Aetheryte<hex:E8020903><hex:030203><hex:03>"
-1806,"Teleport to Nearest Aetheryte"
+1806,"Teleport to Nearby Aetheryte"
 1807,"Letters from Friends"
 1808,"Purchases & Rewards"
 1809,"Letters from GMs"
