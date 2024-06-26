@@ -113,7 +113,7 @@ int32,str,str
 108,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_522","Just look at all we've achieved! With your help, we've secured another market in the Ondo and lured back my other lost employee!"
 109,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_523","I cannot thank you enough, yet I would ask that you stay in my employ just a little longer. Rehiring my artisans was a costly endeavor, and we'll need every coin your new creations bring in..."
 110,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_561","Iola is overjoyed with your efforts. She now considers you the <hex:024804F201F403><hex:024904F201F503>Iron Bellows' Ace in the Hole<hex:0249020103><hex:0248020103>!"
-111,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_524","A new quest continuing the story of the Iron Bellows is now available. Upon its completion, the Crystarium Deliveries list for Iola will be updated."
+111,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_524","A new quest continuing the story of the Iron Bellows is now available."
 112,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_550","Greetings, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Ready to conjure up another fantastic new convenience?"
 113,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_550","Look at them. Those three have certainly taken to the work with a passion...which I suppose is to be expected from such veteran artisans."
 114,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_551","Anyway, let's get started on our final project, shall we?"

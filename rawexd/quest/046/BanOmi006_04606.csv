@@ -124,7 +124,7 @@ int32,str,str
 119,"TEXT_BANOMI006_04606_N7000_000_088","Affirmative. Your labor has been greatly valued. We would be delighted to assign you shifts at any time..."
 120,"TEXT_BANOMI006_04606_N7000_000_089","<whirr> This unit jests! Your friendship is also valued. Should you ever need a place to process, you are always welcome for a beverage of indeterminate nature at the Last Dregs."
 121,"TEXT_BANOMI006_04606_SYSTEM_000_091","You have achieved <hex:024804F201F403><hex:024904F201F503>Bloodsworn<hex:0249020103><hex:0248020103> reputation with the staff and patrons of the Last Dregs."
-122,"TEXT_BANOMI006_04606_SYSTEM_000_092","You will receive an experience point bonus upon the completion of Last Dregs tribal daily quests."
+122,"TEXT_BANOMI006_04606_SYSTEM_000_092","You will receive an experience point bonus upon the completion of Last Dregs society daily quests."
 123,"TEXT_BANOMI006_04606_JAMMINGWAY_000_047",""
 124,"TEXT_BANOMI006_04606_N7000_000_083",""
 125,"TEXT_BANOMI006_04606_JAMMINGWAY_000_085",""

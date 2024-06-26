@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,"TEXT_REGROC2SKYISLANDENTRANCE_00311_AURVAEL_000_000","Adventure! Excitement! Glory! All that and more awaits you in the Diadem. Should you crave such delights in the depth of your soul, pray return to me when you have honed your skills."
 1,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_001","In order to embark upon an Ishgardian exploratory mission, you and your party must meet the following requirements:"
-2,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_002","※ You must have completed the main scenario quest “Heavensward.”"
+2,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_002","※You must have completed the main scenario quest “Heavensward.”"
 3,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_003","You must be a level 60 Disciple of War or Magic."
 4,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_004","To review your quest progression, select <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> from the main menu, followed by <hex:024804F201F403><hex:024904F201F503>Journal<hex:0249020103><hex:0248020103>."
 5,"TEXT_REGROC2SKYISLANDENTRANCE_00311_AURVAEL_000_010","Excellent timing, my good <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>! We seek volunteers for our next expedition. Will you be joining us?"

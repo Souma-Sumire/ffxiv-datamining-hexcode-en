@@ -96,7 +96,7 @@ int32,str,str
 91,"TEXT_CLSWVR600_02006_GLENDA_000_018","Go, Averil. Go with my blessing. But keep him safe, and <hex:021A020203>promise<hex:021A020103> me you'll come back!"
 92,"TEXT_CLSWVR600_02006_AVERIL_000_019","I promise, Mother. On everything I hold dear! Thank you.<hex:02100103>And thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
 93,"TEXT_CLSWVR600_02006_SYSTEM_000_500","This concludes the weaver quests for FINAL FANTASY XIV: Heavensward. In order to undertake the next series of quests, you must first meet the following requirements:"
-94,"TEXT_CLSWVR600_02006_SYSTEM_000_501","※ You must have completed the main scenario quest “The Far Edge of Fate.”"
+94,"TEXT_CLSWVR600_02006_SYSTEM_000_501","※You must have completed the main scenario quest “The Far Edge of Fate.”"
 95,"TEXT_CLSWVR600_02006_SYSTEM_000_502","Once you have done so, the next weaver quest will be available from Redolent Rose."
 96,"TEXT_CLSWVR600_02006_SYSTEM_100_001","deleted"
 97,"TEXT_CLSWVR600_02006_SYSTEM_100_002","deleted"

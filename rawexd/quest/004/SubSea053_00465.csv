@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_SUBSEA053_00465_SYSTEM_100_000","To accept this quest, you must abandon the current main scenario quest. Open the corresponding entry in the journal or duty list and select “Abandon.”"
 49,"TEXT_SUBSEA053_00465_STAELWYRN_000_1","That sea-sloth Sevrin and his lot─never around when there's work to be done!"
 50,"TEXT_SUBSEA053_00465_STAELWYRN_000_2","I'd sooner hire <hex:021A020203>you<hex:021A020103> for the sake of gettin' things done, but then the rapscallions would never learn."
-51,"TEXT_SUBSEA053_00465_STAELWYRN_000_3","Round them up and let them know that Staelwyrn would like a word... And don't take “no” for an answer!"
+51,"TEXT_SUBSEA053_00465_STAELWYRN_000_3","Round them up and let them know that Staelwyrn would like a word... And don't take no for an answer!"
 52,"TEXT_SUBSEA053_00465_SEVRIN_000_11","Aye, I'm Sevrin. You the old man's errand <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>, now?"
 53,"TEXT_SUBSEA053_00465_SEVRIN_000_12","Tell my <hex:021A020203>dear<hex:021A020103> old captain not to wet his britches. I'll be along."
 54,"TEXT_SUBSEA053_00465_SEVRIN_000_13","Oh, and just so we're clear─I don't care for landlubbers. Go find the chocobo you rode in on, and ride on out."

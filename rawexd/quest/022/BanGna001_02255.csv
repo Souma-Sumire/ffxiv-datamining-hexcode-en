@@ -152,5 +152,5 @@ int32,str,str
 147,"TEXT_BANGNA001_02255_NANASHI_000_113","<click> <click> ...We understand. Perhaps we should find a new purpose. Forgive us."
 148,"TEXT_BANGNA001_02255_SYSTEM_000_200","The nameless one is now called the Vath deftarm, and an Adventurers' Guild has been constructed in Loth ast Vath. The hunters of Tailfeather are now clients of the Adventurers' Guild!"
 149,"TEXT_BANGNA001_02255_SYSTEM_000_210","You have achieved <hex:024804F201F403><hex:024904F201F503>Friendly<hex:0249020103><hex:0248020103> reputation with the Vath."
-150,"TEXT_BANGNA001_02255_SYSTEM_000_211","Vath tribal quests are now available from the Vath keeneye."
+150,"TEXT_BANGNA001_02255_SYSTEM_000_211","Vath society quests are now available from the Vath keeneye."
 151,"TEXT_BANGNA001_02255_SYSTEM_100_212","Furthermore, you now have access to a selection of wares from the Vath stickpeddler."

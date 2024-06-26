@@ -96,5 +96,5 @@ int32,str,str
 91,"TEXT_BANSYL002_01253_VOYCE_000_000_070","D-Don't just stand there! Can't you see I'm in d-danger here!?"
 92,"TEXT_BANSYL002_01253_VOYCE_000_000_080","Yes, we must search for the...<cough>...Chosen One! Ah, just as soon as my...<cough>...throat clears up."
 93,"TEXT_BANSYL002_01253_SYSTEM_200_000","You have achieved <hex:024804F201F403><hex:024904F201F503>Neutral<hex:0249020103><hex:0248020103> reputation with the sylphs of Little Solace."
-94,"TEXT_BANSYL002_01253_SYSTEM_200_001","Sylph tribal quests are now available from Tonaxia at Little Solace."
+94,"TEXT_BANSYL002_01253_SYSTEM_200_001","Sylph society quests are now available from Tonaxia at Little Solace."
 95,"TEXT_BANSYL002_01253_SYSTEM_200_002","Furthermore, you may now purchase wares from the sylphic vendor."

@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_BANOMI119_04625_SEQ_21",""
 22,"TEXT_BANOMI119_04625_SEQ_22",""
 23,"TEXT_BANOMI119_04625_SEQ_23",""
-24,"TEXT_BANOMI119_04625_TODO_00","<hex:0208F2014BE4E80511FF63><hex:02085FE3E802E803FF2A>Mine <hex:02310CFF05>Item<hex:04E806030203> at the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806030203> to the expectant Ea.<hex:03><hex:FFF0E0><hex:0208F0DBE4E80512FF65><hex:020861E3E802E803FF2C>Gather <hex:02310CFF05>Item<hex:04E806030203> at the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806030203> to the expectant Ea.<hex:03><hex:FF70><hex:02086CE4E80513FF64><hex:020860E3E802E803FF2B>Catch <hex:02310CFF05>Item<hex:02E806020203> at the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806020203> to the expectant Ea.<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
+24,"TEXT_BANOMI119_04625_TODO_00","<hex:0208F20151E4E80511FF65><hex:020861E3E802E803FF2C>Mine <hex:02310CFF05>Item<hex:04E806030203> from the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806030203> to the expectant Ea.<hex:03><hex:FFF0E4><hex:0208F0DFE4E80512FF67><hex:020863E3E802E803FF2E>Gather <hex:02310CFF05>Item<hex:04E806030203> from the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806030203> to the expectant Ea.<hex:03><hex:FF72><hex:02086EE4E80513FF66><hex:020862E3E802E803FF2D>Catch <hex:02310CFF05>Item<hex:02E806020203> from the Elysian seas.<hex:FF2D>Deliver <hex:02310CFF05>Item<hex:03E806020203> to the expectant Ea.<hex:03><hex:FF01><hex:03><hex:03><hex:03>"
 25,"TEXT_BANOMI119_04625_TODO_01","Report to Stigma-4."
 26,"TEXT_BANOMI119_04625_TODO_02",""
 27,"TEXT_BANOMI119_04625_TODO_03",""

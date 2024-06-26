@@ -5,7 +5,7 @@ int32,str,str
 0,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000","Will you be registering for the next mission? If so, you will need to submit proof of purchase for a tank of ceruleum."
 1,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010","...Ah, a thousand pardons, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. Due to the dangers our parties often face on these expeditions, we can accept only the most experienced individuals."
 2,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011","In order to embark upon an Ishgardian exploratory mission, you and your party must meet the following requirements:"
-3,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012","※ You must have completed the main scenario quest “Heavensward.”"
+3,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012","※You must have completed the main scenario quest “Heavensward.”"
 4,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013","You must be a level 60 Disciple of War or Magic."
 5,"TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014","To review your quest progression, select <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> from the main menu, followed by <hex:024804F201F403><hex:024904F201F503>Journal<hex:0249020103><hex:0248020103>."
 6,"TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020","Wait─have you spoken with Lord Aurvael yet? I thought not. It would be best if you did so first."

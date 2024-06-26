@@ -161,7 +161,7 @@ int32,str,str
 156,"TEXT_JOBNIN500_00234_TSUBAME_000_309","And with that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it seems that it is <hex:021A020203>I<hex:021A020103> who will bid you farewell. You've been a true friend, and my heart awaits the day when we shall meet again."
 157,"TEXT_JOBNIN500_00234_TSUBAME_000_310","...But you <hex:021A020203>will<hex:021A020103> return to give Oboro lessons from time to time, yes? I'm not convinced that his bows are as masterful as <hex:021A020203>he<hex:021A020103> seems to think..."
 158,"TEXT_JOBNIN500_00234_SYSTEM_100_000","This concludes the ninja quests for FINAL FANTASY XIV: A Realm Reborn. In order to undertake the next series of quests, you must first meet the following requirements:"
-159,"TEXT_JOBNIN500_00234_SYSTEM_100_001","※ You must have completed the main scenario quest “Before the Dawn.”"
+159,"TEXT_JOBNIN500_00234_SYSTEM_100_001","※You must have completed the main scenario quest “Before the Dawn.”"
 160,"TEXT_JOBNIN500_00234_SYSTEM_100_002","Once you have done so, the next ninja quest will be available from Oboro."
 161,"TEXT_JOBNIN500_00234_QIB_001_TODO001","Defeat Gekkai!"
 162,"TEXT_JOBNIN500_00234_QIB_001_TSUBAME_BATTLETALK_01","Oboro and I will thin the ranks! Make Gekkai feel your blade!"
