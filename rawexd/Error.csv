@@ -76,7 +76,7 @@ int32,str
 13203,"Your current service account does not allow for the creation of any more characters."
 13204,"Your current service account does not allow for the creation of any more characters on this World."
 13205,"This World is currently full. Please wait until an opening is available and try again."
-13206,"This World is currently full.<hex:02100103>Players in queue: <hex:022206E802FF022C03>."
+13206,"The server is currently congested.<hex:02100103>Players in queue: <hex:022206E802FF022C03>."
 13207,"You are still logged into the game. Please allow a few moments for the logout process to complete. If you continue experiencing problems, please contact customer support."
 13208,"Your character name was not registered in a timely fashion. Please try again."
 13209,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add a platform to your service account or renew your subscription, please visit the Mog Station (https://sqex.to/Msp). To register another platform, you must purchase a license for the applicable platform or complete the registration process using the registration code included with your purchase."
