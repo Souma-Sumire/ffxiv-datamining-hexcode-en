@@ -4877,7 +4877,7 @@ int32,str
 5460,"https://sqex.to/2IS"
 5461,"Use the code reader application on your smartphone and access the Lodestone to view current Feast rankings."
 5465,"Required to Craft: <hex:02280AFF05>Item<hex:E8020A03>"
-5466,"Required to Gather: <hex:02082FE4E80301FF1A>Tome of Regional Folklore<hex:FF0E><hex:02280AFF05>Item<hex:E8020103><hex:03>"
+5466,"Required to Gather: <hex:02082FE4E80301FF1A>Tome of Regional Folklore<hex:FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03>"
 5470,"<hex:02280FFF0A>PlaceName<hex:E8020103>"
 5471,"Quest Search"
 5472,"Search"
