@@ -58,7 +58,7 @@ int32,uint32,uint32,uint32,str,str,str
 53,0,0,0,"<hex:0209BAE804FF04>1st<hex:FF04>2nd<hex:FF04>3rd<hex:FF04>4th<hex:FF04>5th<hex:FF04>6th<hex:FF04>7th<hex:FF04>8th<hex:FF04>9th<hex:FF05>10th<hex:FF05>11th<hex:FF05>12th<hex:FF05>13th<hex:FF05>14th<hex:FF05>15th<hex:FF05>16th<hex:FF05>17th<hex:FF05>18th<hex:FF05>19th<hex:FF05>20th<hex:FF05>21st<hex:FF05>22nd<hex:FF05>23rd<hex:FF05>24th<hex:FF05>25th<hex:FF05>26th<hex:FF05>27th<hex:FF05>28th<hex:FF05>29th<hex:FF05>30th<hex:FF05>31st<hex:FF05>32nd<hex:03> Sun of the <hex:020993E803FF0B>1st Astral<hex:FF0B>1st Umbral<hex:FF0B>2nd Astral<hex:FF0B>2nd Umbral<hex:FF0B>3rd Astral<hex:FF0B>3rd Umbral<hex:FF0B>4th Astral<hex:FF0B>4th Umbral<hex:FF0B>5th Astral<hex:FF0B>5th Umbral<hex:FF0B>6th Astral<hex:FF0B>6th Umbral<hex:03> Moon","",""
 54,0,0,0,"","",""
 55,0,0,0,"","",""
-56,0,0,0,"<hex:022903EA0203><hex:020939E803FF01><hex:FF0A> (Legacy)<hex:FF01><hex:FF0A> (Legacy)<hex:FF01><hex:FF0A> (Legacy)<hex:FF01><hex:FF0A> (Legacy)<hex:FF01><hex:03>","",""
+56,0,0,0,"<hex:022903EA0203><hex:020836E3E80308FF2E><hex:02092AE803FF01><hex:FF0A> (Legacy)<hex:FF01><hex:FF0A> (Legacy)<hex:FF01><hex:FF0A> (Legacy)<hex:03><hex:FF01><hex:03>","",""
 57,0,0,0,"Obtaining the World list...","",""
 58,0,0,0,"Unable to obtain the World list.","",""
 59,0,0,0,"Obtain updated World information. This feature can only be used once every <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> <hex:020816E4E80202FF07>minute<hex:FF08>minutes<hex:03>.","",""
@@ -359,7 +359,7 @@ have for countless generations."
 175,0,0,0,"The Matron","",""
 176,0,0,0,"Althyk","",""
 177,0,0,0,"The Keeper","",""
-178,0,76804,0,"Gladiator"," ","Gladiators specialize in the handling of all manner of one-handed
+178,0,230904,0,"Gladiator"," ","Gladiators specialize in the handling of all manner of one-handed
 blades, from daggers to longswords, be they single- or double-edged,
 straight or curved. A defining characteristic of the art is its emphasis
 on diverse combat tactics, training its members to bring their martial
@@ -371,7 +371,7 @@ makes the gladiator a formidable adversary in any encounter.
 
 Corresponding Job: Paladin"
 179,0,0,0,"","",""
-180,0,76805,0,"Pugilist"," ","The path of the pugilist is one of incessant training aimed at mastering
+180,0,230905,0,"Pugilist"," ","The path of the pugilist is one of incessant training aimed at mastering
 the traditional techniques of hand-to-hand combat. Though they
 command formidable power when unarmed, they are wont to use metal,
 leather, and bone weaponry to maximize their destructive potential.
@@ -383,7 +383,7 @@ better success in battle than does cumbersome plate or chain.
 
 Corresponding Job: Monk"
 181,0,0,0,"","",""
-182,0,76806,0,"Marauder"," ","The marauder is a combat specialist whose weapon of choice is
+182,0,230906,0,"Marauder"," ","The marauder is a combat specialist whose weapon of choice is
 the greataxe－a fearsome arm emblematic of Eorzea's pirates.
 Their approach to battle is one of brute force, relying on strength
 and steel to crush enemies and sunder weapons. They are highly
@@ -393,7 +393,7 @@ the tide of battle between warring nations.
 
 Corresponding Job: Warrior"
 183,0,0,0,"","",""
-184,0,76807,0,"Lancer"," ","The strategy of the lancers is to outrange and fluster opponents
+184,0,230907,0,"Lancer"," ","The strategy of the lancers is to outrange and fluster opponents
 with their long, two-handed polearms, peppering them with a barrage
 of thrusting attacks. They are trained with a number of weapons,
 giving a diversity to their attacks that makes them extremely
@@ -406,7 +406,7 @@ to include a variety of weaponry, such as the halberd and the trident.
 
 Corresponding Job: Dragoon"
 185,0,0,0,"","",""
-186,0,76808,0,"Archer"," ","The enduring popularity of the bow is a testament to its elegant
+186,0,230908,0,"Archer"," ","The enduring popularity of the bow is a testament to its elegant
 design, but this simple weapon would be of little worth without the
 surpassing skill of those who master it－the archers. Projectile
 techniques such as high-angle fire enable archers to assail their
@@ -421,7 +421,7 @@ most skilled with the bow.
 
 Corresponding Job: Bard"
 187,0,0,0,"","",""
-188,0,76809,0,"Conjurer"," ","Conjury calls upon elemental forces present in nature and concentrates
+188,0,230909,0,"Conjurer"," ","Conjury calls upon elemental forces present in nature and concentrates
 them to a potency at which spells can be woven. Through practiced
 meditation on the essences of creation, conjurers draw forth and
 absorb aether from their immediate surroundings. A wand or cane
@@ -432,7 +432,7 @@ said to be most powerful.
 
 Corresponding Job: White Mage"
 189,0,0,0,"","",""
-190,0,76810,0,"Thaumaturge"," ","In the hands of a skilled practitioner, thaumaturgy can be a force of
+190,0,230910,0,"Thaumaturge"," ","In the hands of a skilled practitioner, thaumaturgy can be a force of
 terrifying destruction. At the heart of this school of magic lies the
 ability to call forth and command the latent aether within oneself
 through deep introspection. To then mold that aether into sorcery,
@@ -441,7 +441,7 @@ housed a medium－a natural stone imbued with magical properties.
 
 Corresponding Job: Black Mage"
 191,0,0,0,"","",""
-192,0,76829,0,"Arcanist"," ","Adepts of the art of arcanum derive their might from symbols of power
+192,0,230929,0,"Arcanist"," ","Adepts of the art of arcanum derive their might from symbols of power
 born of geometric techniques hailing from across the southern seas.
 Held within occult grimoires, these symbols lend shape to the arcanist's
 aether, thereby allowing him to produce myriad powerful spells. Using
@@ -710,11 +710,11 @@ Corresponding Jobs: Summoner, Scholar"
 450,0,1200,0,"","",""
 451,0,0,0,"","",""
 452,0,1210,0,"","",""
-453,0,20,0,"","",""
+453,0,36020,0,"","",""
 454,0,1420,0,"","",""
-455,0,15,0,"","",""
+455,0,36015,0,"","",""
 456,0,930,0,"","",""
-457,0,2130,0,"","",""
+457,0,38130,0,"","",""
 458,0,0,0,"Hrothgar<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>","","Hailing from the distant shores of Ilsabard, the Hrothgar are a burly
 people of lionlike appearance—or the males are, at least. Females
 number staggeringly few among their population, and thus are
@@ -944,23 +944,23 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 642,0,0,0,"Requires <hex:02310CFF05>Item<hex:02E802020203> or completion of the All Saints' Wake seasonal quests from “Affright and Delight” through “Yes We Cant” to unlock this face paint at the aesthetician.","",""
 643,0,0,0,"Requires <hex:02310CFF05>Item<hex:02E802020203> to unlock this face paint at the aesthetician.","",""
 644,0,0,0,"","",""
-645,0,0,0,"","",""
-646,0,0,0,"","",""
-647,0,0,0,"","",""
-648,0,0,0,"","",""
-649,0,0,0,"","",""
-650,0,0,0,"","",""
-651,0,0,0,"","",""
-652,0,0,0,"","",""
-653,0,0,0,"","",""
-654,0,0,0,"","",""
-655,0,0,0,"","",""
-656,0,0,0,"","",""
+645,0,0,0,"Character was logged out or disconnected mid-duty. Unable to re-edit character.<hex:02100103>You must log in and leave the duty before trying again.","",""
+646,0,0,0,"Character is currently bound by duty. Changes to race, gender, and appearance cannot be made.","",""
+647,0,0,0,"Character is currently imprisoned in the Mordion Gaol. Unable to customize appearance.","",""
+648,0,0,0,"Currently unable to change character race, gender, or appearance.","",""
+649,0,0,0,"[ <hex:022903EA0203> ]","",""
+650,0,0,0,"Disconnect from the <hex:022903EA0203> data center and connect to the <hex:022903EA0303> data center?","",""
+651,0,0,0,"Saved data pertaining to HUD/window layout and size settings, including certain window-specific settings.","HUD Layout",""
+652,0,1,0,"Saved data pertaining to hotbar/cross hotbar slot registration settings for all classes and jobs.","Hotbars",""
+653,0,2,0,"Saved data pertaining to gear sets.","Gear Sets",""
+654,0,3,0,"Saved data pertaining to character and control scheme settings, including keybinds and log filters.","Character Config",""
+655,0,4,0,"Saved data pertaining to individual character macros.","Individual Macros",""
+656,0,5,0,"Saved data pertaining to action change settings, favorites settings for the mount guide and other lists, as well as portrait settings, etc.","Others",""
 657,0,0,0,"","",""
 658,0,0,0,"","",""
 659,0,0,0,"","",""
-660,0,0,0,"","",""
-661,0,0,0,"","",""
+660,0,0,0,"Select Individually Select All","",""
+661,0,0,0,"<hex:021E020903>Select Individually <hex:021E020B03>Select All","",""
 662,0,0,0,"","",""
 663,0,0,0,"","",""
 664,0,0,0,"","",""
@@ -1090,10 +1090,10 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 788,0,0,0,"","",""
 789,0,0,0,"","",""
 790,0,0,0,"","",""
-791,0,0,0,"","",""
-792,0,0,0,"","",""
-793,0,0,0,"","",""
-794,0,0,0,"","",""
+791,0,0,0,"Japanese Data Center","",""
+792,0,0,0,"North American Data Center","",""
+793,0,0,0,"European Data Center","",""
+794,0,0,0,"Oceanian Data Center","",""
 795,0,0,0,"","",""
 796,0,0,0,"","",""
 797,0,0,0,"","",""
@@ -1107,7 +1107,7 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 805,0,0,0,"<hex:020928E802FF05>JP 1<hex:FF05>JP 2<hex:FF05>JP 3<hex:FF08>DC NA 1<hex:FF05>NA 2<hex:FF03>EU<hex:03>","",""
 806,0,0,0,"FINAL FANTASY XIV requires connecting to one of several data centers to play. The closer your physical location to the data center, the smoother gameplay will be.<hex:02100103><hex:02100103><hex:0208F202A7E1E80201FFF20216>The center you have selected is recommended for residents of <hex:02093DE802FF06>Japan<hex:FF0E>North America<hex:FF07>Europe<hex:FF08>Oceania<hex:FF01><hex:FF01><hex:FF0E>North America<hex:03>. Select if you wish to create a character and play in one of the Worlds listed.<hex:02100103><hex:02088BE4E80208FF83><hex:024804F2023703><hex:024904F2023803>This data center is for cloud stress testing only. No connections can be made outside the test period.<hex:0249020103><hex:0248020103><hex:02100103><hex:FF01><hex:03><hex:02100103>Each data center contains several unique Worlds (servers). If you have already decided which World on which you are going to play, you should select the corresponding data center.<hex:FF88>First choose your region, and then select your data center. All data centers within the same region offer the same quality of gameplay.<hex:03>","",""
 807,0,0,0,"<hex:022903EA0203><hex:020951E803FF01><hex:FF0A> (Legacy)<hex:FF06> (NA)<hex:FF0D> (NA Legacy)<hex:FF06> (EU)<hex:FF0D> (EU Legacy)<hex:FF06> (OC)<hex:FF0D> (OC Legacy)<hex:FF01><hex:03>","",""
-808,0,0,0,"Connecting to data center.","",""
+808,0,0,0,"Connecting to the <hex:022903EA0203> data center.","",""
 809,0,0,0,"Acquiring character list.","",""
 810,0,0,0,"Proceed","",""
 811,0,0,0,"Cancel","",""
@@ -1119,7 +1119,7 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 817,0,0,0,"","",""
 818,0,0,0,"","",""
 819,0,0,0,"","",""
-820,0,0,0,"“World” is another name for the server on which your character will reside.<hex:02100103>Once you have chosen a Home World, chances to move to another will be limited,<hex:02100103>so if you have made plans to play FINAL FANTASY XIV with friends, make<hex:02100103>certain that you all select the same one.<hex:02100103><hex:02100103>Worlds are divided between nine different data centers based on the location of<hex:02100103>their servers. To ensure you encounter the fewest number of latency issues,<hex:02100103>it is recommended, but not required, that you select a data center that is<hex:02100103>closer to where you will be playing. Legacy Worlds (servers existing since the<hex:02100103>original launch) are indicated in parentheses.<hex:02100103><hex:02100103><hex:02282CFF11>WorldDCGroupType<hex:E802FF16>WORLDDCGROUPTYPE_NAME<hex:03>, this World's data center, is recommended for residents of <hex:020849E1E80401FF41><hex:02093DE804FF06>Japan<hex:FF0E>North America<hex:FF07>Europe<hex:FF08>Oceania<hex:FF01><hex:FF01><hex:FF0E>North America<hex:03><hex:FF01><hex:03>.<hex:02088BE4E80408FF83><hex:024804F2023703><hex:024904F2023803>This data center is for cloud stress testing only. No connections can be made outside the test period.<hex:02100103><hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:020882E4E80302FF7A><hex:02100103><hex:02100103><hex:0212026403><hex:024804F201FA03><hex:024904F201FB03>EXP bonuses are currently being granted to all new players<hex:02100103>created on this world.<hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:0208F20142E4E80303FFF20138><hex:02100103><hex:02100103><hex:024804F201FE03><hex:024904F201FF03>The creation of characters on this World is currently restricted. You must<hex:02100103>either wait for this restriction to be lifted, or create a character on another<hex:02100103>World. In the event you create a character on another World, you may use the<hex:02100103>World Visit system to play on this one.<hex:0249020103><hex:0248020103><hex:FF01><hex:03>","",""
+820,0,0,0,"“World” is another name for the server on which your character will reside.<hex:02100103>Once you have chosen a Home World, chances to move to another will be limited,<hex:02100103>so if you have made plans to play FINAL FANTASY XIV with friends, make<hex:02100103>certain that you all select the same one.<hex:02100103><hex:02100103>Worlds are divided between data centers based on the location of their servers.<hex:02100103>To ensure you encounter the fewest number of latency issues, it is recommended,<hex:02100103>but not required, that you select a data center that is geographically closer<hex:02100103>to you. If you do not see your preferred World displayed, please suspend character<hex:02100103>creation and select a different data center via the Character Selection screen<hex:02100103>or the Data Center menu option on the title screen. Legacy Worlds (servers existing<hex:02100103>since the original launch) are indicated in parentheses.<hex:02100103><hex:02100103><hex:02088BE4E80408FF83><hex:024804F2023703><hex:024904F2023803>This data center is for cloud stress testing only. No connections can be made outside the test period.<hex:02100103><hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:020882E4E80302FF7A><hex:02100103><hex:02100103><hex:0212026403><hex:024804F201FA03><hex:024904F201FB03>EXP bonuses are currently being granted to all new players<hex:02100103>created on this world.<hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:0208F20142E4E80303FFF20138><hex:02100103><hex:02100103><hex:024804F201FE03><hex:024904F201FF03>The creation of characters on this World is currently restricted. You must<hex:02100103>either wait for this restriction to be lifted, or create a character on another<hex:02100103>World. In the event you create a character on another World, you may use the<hex:02100103>World Visit system to play on this one.<hex:0249020103><hex:0248020103><hex:FF01><hex:03>","",""
 821,0,0,0,"(Skipped)","",""
 822,0,0,0,"Save <hex:02092FE803FF14><hex:02280BFF06>Tribe<hex:E8020103> male<hex:FF16><hex:02280BFF06>Tribe<hex:E8020203> female<hex:03> character creation data to slot <hex:022003E80403>?","",""
 823,0,0,0,"Load character creation data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> saved to slot <hex:022003E80303> at <hex:020703E80203><hex:022002DB03>:<hex:022402DA03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>?","",""
@@ -1274,30 +1274,30 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 972,0,0,0,"Sharing backup settings data between Windows®/Mac® and PlayStation®4 play environments is currently resricted.","",""
 973,0,0,0,"Searching for data...","",""
 974,0,0,0,"Preparing download...","",""
-975,0,0,0,"","",""
-976,0,0,0,"","",""
+975,0,0,0,"Import Character Settings","",""
+976,0,0,0,"<hex:020703E80203><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03> <hex:022002DB03>:<hex:022402DA03>:<hex:022402D903>","",""
 977,0,0,0,"","",""
 978,0,0,0,"","",""
-979,0,0,0,"","",""
-980,0,0,0,"","",""
-981,0,0,0,"","",""
-982,0,0,0,"","",""
-983,0,0,0,"","",""
-984,0,0,0,"","",""
-985,0,0,0,"","",""
+979,0,0,0,"Client Settings Data","",""
+980,0,0,0,"System Configuration Backup","",""
+981,0,0,0,"I understand.","",""
+982,0,0,0,"The last backup of <hex:020825E4E80303FF01><hex:FF1D>client data <hex:02080DE4E80302FF01><hex:FF05>and <hex:03><hex:03><hex:02085BE4E80302FF01><hex:FF53>character data for the last character you logged in with in this play environment <hex:03>was created <hex:020832E0E80202FF1B><hex:022003E80203> <hex:020810E4E80202FF04>day<hex:FF05>days<hex:03><hex:FF10>less than 1 day<hex:03> ago.<hex:02100103>Creating routine backups is recommended.","",""
+983,0,0,0,"Notify after a set time has elapsed since the last backup.","",""
+984,0,0,0,"※Settings can be adjusted via System Configuration.","",""
+985,0,0,0,"OK","",""
 986,0,0,0,"","",""
-987,0,0,0,"","",""
+987,0,0,0,"The selected character's data will be copied.<hex:02100103>※Creating a backup of character settings is recommended.","",""
 988,0,0,0,"","",""
 989,0,0,0,"","",""
 990,0,0,0,"","",""
-991,0,0,0,"","",""
+991,0,0,0,"Game Manual","",""
 992,0,0,0,"","",""
-993,0,0,0,"","",""
-994,0,0,0,"","",""
-995,0,0,0,"","",""
-996,0,0,0,"","",""
-997,0,0,0,"","",""
-998,0,0,0,"","",""
+993,0,0,0,"Copy Character Settings","",""
+994,0,0,0,"Select the data you wish to copy from the selected character.","",""
+995,0,0,0,"Select the character you wish to copy HUD layout, hotbar configuration, and other settings from.<hex:02100103>※Up to 8 recently logged-in characters will be displayed.","",""
+996,0,0,0,"Searching for other character data...","",""
+997,0,0,0,"Applicable character data could not be found.","",""
+998,0,0,0,"Character settings copied.<hex:02100103>Settings will be applied the next time you log in with this character.","",""
 999,0,0,0,"","",""
 1000,0,0,0,"Tail Length","",""
 1001,0,0,0,"Tail Shape","",""
@@ -1461,18 +1461,18 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1159,0,0,0,"Cancel","",""
 1160,0,0,0,"","",""
 1161,0,0,0,"Close","",""
-1162,0,0,0,"Select the data center and World you wish to visit.<hex:02100103>Estimated Travel Time: <hex:0208A9E3E8023DFF13>Less than 1 minute<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03>","",""
-1163,0,0,0,"Returning to Home Data Center and Home World.<hex:02100103>Estimated Travel Time: <hex:0208A9E3E8023DFF13>Less than 1 minute<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03>","",""
+1162,0,0,0,"Select the data center and World you wish to visit.<hex:02100103>Estimated Travel Time: <hex:0208F0E6E3E8023DFF13>Less than 1 minute<hex:FFCD><hex:0208C9E3E80279FF14>Less than 2 minutes<hex:FFAE><hex:0208AAE3E802B5FF14>Less than 3 minutes<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>","",""
+1163,0,0,0,"Returning to Home Data Center and Home World.<hex:02100103>Estimated Travel Time: <hex:0208F0E6E3E8023DFF13>Less than 1 minute<hex:FFCD><hex:0208C9E3E80279FF14>Less than 2 minutes<hex:FFAE><hex:0208AAE3E802B5FF14>Less than 3 minutes<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>","",""
 1164,0,0,0,"DATA CENTER","",""
 1165,0,0,0,"WORLD","",""
 1166,0,0,0,"Confirm","",""
 1167,0,0,0,"Cancel","",""
 1168,0,0,0,"❖<hex:022903EA0203>","",""
 1169,0,0,0,"Retrieving World data...","",""
-1170,0,0,0,"<hex:022903EA0203><hex:0212025903><hex:022903EA0303> will now be transported to <hex:022903EA0503> in the <hex:022903EA0403> data center.<hex:02100103>Estimated Travel Time: <hex:0208A9E3E8023DFF13>Less than 1 minute<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:02100103><hex:02100103><hex:024804F2023703><hex:024904F2023803>Please note the following:<hex:02100103>・This process may take several minutes to complete.<hex:02100103>・You will be unable to cancel this process while it is underway.<hex:02100103>・You will be unable to log in with a different character until this process has been completed.<hex:02100103><hex:02100103>※Travel times may take longer during periods of server congestion.<hex:0249020103><hex:0248020103>","",""
+1170,0,0,0,"<hex:022903EA0203><hex:0212025903><hex:022903EA0303> will now be transported to <hex:022903EA0503> in the <hex:022903EA0403> data center.<hex:02100103>Estimated Travel Time: <hex:0208F0E6E3E8023DFF13>Less than 1 minute<hex:FFCD><hex:0208C9E3E80279FF14>Less than 2 minutes<hex:FFAE><hex:0208AAE3E802B5FF14>Less than 3 minutes<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:02100103><hex:02100103><hex:024804F2023703><hex:024904F2023803>Please note the following:<hex:02100103>・This process may take several minutes to complete.<hex:02100103>・You will be unable to cancel this process while it is underway.<hex:02100103>・You will be unable to log in with a different character until this process has been completed.<hex:02100103><hex:02100103>※Travel times may take longer during periods of server congestion.<hex:0249020103><hex:0248020103>","",""
 1171,0,0,0,"Proceed","",""
 1172,0,0,0,"Previous Step","",""
-1173,0,0,0,"Your character is traveling between data centers. Please wait until they have reached their destination.<hex:02100103>Estimated Travel Time: <hex:0208A9E3E8023DFF13>Less than 1 minute<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03>","",""
+1173,0,0,0,"Your character is traveling between data centers. Please wait until they have reached their destination.<hex:02100103>Estimated Travel Time: <hex:0208F0E6E3E8023DFF13>Less than 1 minute<hex:FFCD><hex:0208C9E3E80279FF14>Less than 2 minutes<hex:FFAE><hex:0208AAE3E802B5FF14>Less than 3 minutes<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>","",""
 1174,0,0,0,"<hex:022903EA0203><hex:0212025903><hex:022903EA0303> has arrived safely on <hex:022903EA0503> in the <hex:022903EA0403> data center!","",""
 1175,0,0,0,"This character is currently visiting the <hex:022903EA0203> data center.","",""
 1176,0,0,0,"A name change is required to log in with this character. Please return to your Home World to change your name.","",""
@@ -1490,7 +1490,7 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1188,0,0,0,"Select Data Center","",""
 1189,0,0,0,"Select World","",""
 1190,0,0,0,"Proceed","",""
-1191,0,0,0,"<hex:022903EA0203><hex:0212025903><hex:022903EA0303> will now be returned to Home World <hex:022903EA0503> in the <hex:022903EA0403> data center.<hex:02100103>Estimated Travel Time: <hex:0208A9E3E8023DFF13>Less than 1 minute<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:02100103><hex:02100103><hex:024804F2023703><hex:024904F2023803>Please note the following:<hex:02100103>・This process may take several minutes to complete.<hex:02100103>・You will be unable to cancel this process while it is underway.<hex:02100103>・You will be unable to log in with a different character until this process has been completed.<hex:0249020103><hex:0248020103>","",""
+1191,0,0,0,"<hex:022903EA0203><hex:0212025903><hex:022903EA0303> will now be returned to Home World <hex:022903EA0503> in the <hex:022903EA0403> data center.<hex:02100103>Estimated Travel Time: <hex:0208F0E6E3E8023DFF13>Less than 1 minute<hex:FFCD><hex:0208C9E3E80279FF14>Less than 2 minutes<hex:FFAE><hex:0208AAE3E802B5FF14>Less than 3 minutes<hex:FF8F><hex:02088BE3E802F2012CFF14>Less than 5 minutes<hex:FF6E><hex:02086AE3E802F20258FF15>Less than 10 minutes<hex:FF4C><hex:020848E3E802F204B0FF15>Less than 20 minutes<hex:FF2A>Unknown. Servers are currently congested.<hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:02100103><hex:02100103><hex:024804F2023703><hex:024904F2023803>Please note the following:<hex:02100103>・This process may take several minutes to complete.<hex:02100103>・You will be unable to cancel this process while it is underway.<hex:02100103>・You will be unable to log in with a different character until this process has been completed.<hex:0249020103><hex:0248020103>","",""
 1192,0,0,0,"While visiting other data centers, the display of character information will be simplified.","",""
 1193,0,0,0,"","",""
 1194,0,0,0,"","",""
@@ -2103,13 +2103,13 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1801,0,0,0,"You were automatically logged out due to extended inactivity.","",""
 1802,0,0,0,"<hex:024804F201FE03><hex:024904F201FF03>A registered license for <hex:02280FFF0A>ExVersion<hex:E8020103> is required to select this race.<hex:0249020103><hex:0248020103>","",""
 1803,0,0,0,"RGB: <hex:022003E80203>,<hex:022003E80303>,<hex:022003E80403>","",""
-1804,0,76801,0,"Tank"," ","Stand as a bulwark in the face of danger.
+1804,0,230901,0,"Tank"," ","Stand as a bulwark in the face of danger.
 With superior defensive abilities, tanks protect their comrades
 by diverting enemy focus and bearing the brunt of battle.
 
 Begin your journey as a gladiator or marauder, and later master
 the jobs of paladin, warrior, dark knight, and gunbreaker."
-1805,0,76802,0,"Healer"," ","Provide succor to all in need.
+1805,0,230902,0,"Healer"," ","Provide succor to all in need.
 Though limited in their offensive abilities, healers replenish
 health and protect their comrades with myriad rejuvenating skills.
 
@@ -2117,7 +2117,7 @@ Begin your journey as a conjurer, and later master the jobs of
 white mage, scholar, astrologian, and sage.
 ※Please note that the job of scholar is unlocked via the 
 DPS class of arcanist."
-1806,0,76803,0,"DPS"," ","Decimate your foes.
+1806,0,230903,0,"DPS"," ","Decimate your foes.
 Possessing great talent for the offensive, DPS is a role whose sole
 focus is to rout the enemy with a diverse array of punishing attacks.
 
@@ -2425,7 +2425,7 @@ His two aspects lie in the east and west of the city."
 2075,0,0,0,"Midday","",""
 2076,0,0,0,"Evening","",""
 2077,0,0,0,"No Head/Facewear","",""
-2078,0,0,0,"View your character without gear equipped to the head or face.","",""
+2078,0,0,0,"View your character without gear equipped to the head, face, or neck.","",""
 2079,0,0,0,"","",""
 2080,0,0,0,"1","",""
 2081,0,0,0,"1","",""

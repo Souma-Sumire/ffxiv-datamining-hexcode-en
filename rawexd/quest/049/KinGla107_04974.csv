@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_KINGLA107_04974_SEQ_23",""
 24,"TEXT_KINGLA107_04974_TODO_00","Speak with the palace seer."
 25,"TEXT_KINGLA107_04974_TODO_01","Speak with Rral Soj."
-26,"TEXT_KINGLA107_04974_TODO_02","<hex:02086BE3E802E803FF2B>Synthesize a solar reflector <hex:02280AFF06>Addon<hex:0A0103><hex:FF38> Deliver the solar reflector <hex:02280AFF06>Addon<hex:0A0103> to Rral Soj.<hex:03>"
+26,"TEXT_KINGLA107_04974_TODO_02","<hex:020869E3E802E803FF2B>Synthesize a solar reflector <hex:02280AFF06>Addon<hex:0A0103><hex:FF36>Deliver the solar reflector <hex:02280AFF06>Addon<hex:0A0103> to Rral Soj<hex:03>."
 27,"TEXT_KINGLA107_04974_TODO_03","Speak with Rral Soj."
 28,"TEXT_KINGLA107_04974_TODO_04",""
 29,"TEXT_KINGLA107_04974_TODO_05",""
