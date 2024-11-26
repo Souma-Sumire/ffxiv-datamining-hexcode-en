@@ -80,5 +80,6 @@ int32,str,str
 75,"TEXT_BANPEL006_05198_LIPLU_000_036","After all, a path only extends as far as you're willing to walk, and my legs have plenty of life left in them!"
 76,"TEXT_BANPEL006_05198_SYSTEM_000_105","You have achieved <hex:024804F201F403><hex:024904F201F503>Bloodsworn<hex:0249020103><hex:0248020103> reputation with the Turali Travel Agency."
 77,"TEXT_BANPEL006_05198_SYSTEM_000_106","You will receive an experience point bonus upon the completion of Pelupelu society daily quests."
-78,"TEXT_BANPEL006_05198_LIPLU_000_024",""
-79,"TEXT_BANPEL006_05198_LIPLU_000_025",""
+78,"TEXT_BANPEL006_05198_SYSTEM_000_107","You now have access to a wider selection of wares from Pavli."
+79,"TEXT_BANPEL006_05198_LIPLU_000_024",""
+80,"TEXT_BANPEL006_05198_LIPLU_000_025",""
