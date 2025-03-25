@@ -1,5 +1,5 @@
 ﻿key,0
-#,
+#,Text
 offset,0
 int32,str
 0,""
@@ -8,3 +8,4 @@ int32,str
 3,"The Second Hunt for Genesis"
 4,"The Hunt for Goetia"
 5,"The Hunt for Phantasmagoria"
+6,""
