@@ -14205,7 +14205,7 @@ int32,str
 16983,"MECH OP INITIATED"
 16984,"Withdraw pilot application?"
 16985,"Searchingway"
-16986,"<hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103><hex:020848E1E80301FF41><hex:02083DE1E8030AFF02>A<hex:FF34><hex:020930E803FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:03><hex:03><hex:0103> (<hex:022206E804FF022C03>) (Current instance)"
+16986,"<hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103> <hex:020848E1E80301FF41><hex:02083DE1E8030AFF02>A<hex:FF34><hex:020930E803FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:03><hex:03><hex:0103>. (<hex:022206E804FF022C03>) (Current instance)"
 16987,"Details cannot be displayed for incompleted missions."
 16988,"Display guide."
 16989,"Display guide."
