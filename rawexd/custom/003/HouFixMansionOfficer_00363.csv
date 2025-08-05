@@ -60,3 +60,5 @@ int32,str,str
 55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","Welcome to Ingleside Apartments! Our rooms are currently undergoing finishing touches, and will soon be available for purchase. We thank you for your patience."
 56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","At present, Ingleside is open for display only. Apartment sales will commence at a later time."
 57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","In order to purchase an apartment in Ingleside, you must first complete the main scenario quest “Litany of Peace.”"
+58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","アパルトメント「<hex:020964E802FF13>トップマスト<hex:FF13>リリーヒルズ<hex:FF13>ナナモ大風車<hex:FF0D>紅梅御殿<hex:FF16>イングルサイド<hex:03>」へようこそ！<hex:02100103>こちらでは現在、冒険者のみなさんに開放するため、<hex:02100103>準備を進めているところです。"
+59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","現在、「<hex:020964E802FF13>トップマスト<hex:FF13>リリーヒルズ<hex:FF13>ナナモ大風車<hex:FF0D>紅梅御殿<hex:FF16>イングルサイド<hex:03>」は先行公開期間中となります。<hex:02100103>部屋の販売開始まで、今しばらくお待ちください。"
