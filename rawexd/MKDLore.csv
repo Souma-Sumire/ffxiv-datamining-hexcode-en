@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,,,,,
+#,,Image,,,,Name,Description
 offset,8,12,20,21,16,0,4
-int32,uint32,uint32,byte,byte,uint32,str,str
+int32,uint32,Image,byte,byte,uint32,str,str
 0,0,0,0,0,0,"",""
 1,521,70615,3,2,0,"Ketenramm Blaufystsyn","In the year 1497 of the Sixth Astral Era, a Lominsan Sea Wolf explorer of not twenty summers plotted a westward course for Hingashi, embarking on a fateful voyage that would catapult him into the ranks of legend. Unbeknownst to him and his crew, a great continent lay between them and the Far East─and it was not the splendor of Kugane, but the shores of Tural that ultimately lay upon the horizon.
 
